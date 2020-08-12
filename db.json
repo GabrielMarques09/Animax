@@ -1,0 +1,16 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Acao",
+            "descricao": "Animes de ação",
+            "cor": "#cbd1ff"
+        },
+        {
+            "id": 2,
+            "nome": "Comédia",
+            "descricao": "Animes de comédia",
+            "cor": "#cbd1d2"
+        }
+    ]
+}
